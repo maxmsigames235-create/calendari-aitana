@@ -8,7 +8,7 @@
   const SETTINGS = {
     year: 2026,                  // Any del calendari.
     numberOfDays: 24,            // Nombre de finestretes.
-    testMode: true,              // true = obre tots els dies; false = respecta les dates.
+    testMode: false,              // true = obre tots els dies; false = respecta les dates.
     resetProgressOnLoad: true    // true = cada recàrrega comença amb la carta i finestretes tancades.
   };
 
